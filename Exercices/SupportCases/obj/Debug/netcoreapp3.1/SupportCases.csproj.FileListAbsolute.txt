@@ -1,0 +1,14 @@
+G:\Coding\Curs C#\Probleme\SupportCases\bin\Debug\netcoreapp3.1\SupportCases.exe
+G:\Coding\Curs C#\Probleme\SupportCases\bin\Debug\netcoreapp3.1\SupportCases.deps.json
+G:\Coding\Curs C#\Probleme\SupportCases\bin\Debug\netcoreapp3.1\SupportCases.runtimeconfig.json
+G:\Coding\Curs C#\Probleme\SupportCases\bin\Debug\netcoreapp3.1\SupportCases.runtimeconfig.dev.json
+G:\Coding\Curs C#\Probleme\SupportCases\bin\Debug\netcoreapp3.1\SupportCases.dll
+G:\Coding\Curs C#\Probleme\SupportCases\bin\Debug\netcoreapp3.1\SupportCases.pdb
+G:\Coding\Curs C#\Probleme\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.csproj.AssemblyReference.cache
+G:\Coding\Curs C#\Probleme\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Curs C#\Probleme\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.AssemblyInfoInputs.cache
+G:\Coding\Curs C#\Probleme\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.AssemblyInfo.cs
+G:\Coding\Curs C#\Probleme\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.csproj.CoreCompileInputs.cache
+G:\Coding\Curs C#\Probleme\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.dll
+G:\Coding\Curs C#\Probleme\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.pdb
+G:\Coding\Curs C#\Probleme\SupportCases\obj\Debug\netcoreapp3.1\SupportCases.genruntimeconfig.cache

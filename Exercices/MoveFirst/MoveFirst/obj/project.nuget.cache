@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yZZ2cv3NJH14ekzhiaw16uA+kWlnDlePSBnoz+RGAac1f97czoXqlXlUvTlXfSg7SDKihGiMon0SeRCnlRRoEA==",
+  "success": true,
+  "projectFilePath": "G:\\Coding\\Curs C#\\MoveFirst\\MoveFirst\\MoveFirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

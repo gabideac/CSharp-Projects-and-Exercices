@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JSON Validator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"G:\\Coding\\Curs C#\\json.txt\""
+    }
+  }
+}

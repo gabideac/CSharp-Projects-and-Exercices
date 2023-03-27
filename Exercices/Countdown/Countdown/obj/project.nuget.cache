@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dr82mHxLu5BKbk3XCbCFhX+i6K90VERvhd5JXFb8/Kmt9uhQcyp4JG6unvT/RzV03ADsu5ST+gllRUlIyMoOuQ==",
+  "success": true,
+  "projectFilePath": "G:\\Coding\\Curs C#\\Countdown\\Countdown\\Countdown.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

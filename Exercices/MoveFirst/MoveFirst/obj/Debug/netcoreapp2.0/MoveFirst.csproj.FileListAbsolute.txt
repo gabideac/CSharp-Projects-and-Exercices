@@ -1,0 +1,13 @@
+G:\Coding\Curs C#\MoveFirst\MoveFirst\bin\Debug\netcoreapp2.0\MoveFirst.deps.json
+G:\Coding\Curs C#\MoveFirst\MoveFirst\bin\Debug\netcoreapp2.0\MoveFirst.runtimeconfig.json
+G:\Coding\Curs C#\MoveFirst\MoveFirst\bin\Debug\netcoreapp2.0\MoveFirst.runtimeconfig.dev.json
+G:\Coding\Curs C#\MoveFirst\MoveFirst\bin\Debug\netcoreapp2.0\MoveFirst.dll
+G:\Coding\Curs C#\MoveFirst\MoveFirst\bin\Debug\netcoreapp2.0\MoveFirst.pdb
+G:\Coding\Curs C#\MoveFirst\MoveFirst\obj\Debug\netcoreapp2.0\MoveFirst.csproj.AssemblyReference.cache
+G:\Coding\Curs C#\MoveFirst\MoveFirst\obj\Debug\netcoreapp2.0\MoveFirst.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Curs C#\MoveFirst\MoveFirst\obj\Debug\netcoreapp2.0\MoveFirst.AssemblyInfoInputs.cache
+G:\Coding\Curs C#\MoveFirst\MoveFirst\obj\Debug\netcoreapp2.0\MoveFirst.AssemblyInfo.cs
+G:\Coding\Curs C#\MoveFirst\MoveFirst\obj\Debug\netcoreapp2.0\MoveFirst.csproj.CoreCompileInputs.cache
+G:\Coding\Curs C#\MoveFirst\MoveFirst\obj\Debug\netcoreapp2.0\MoveFirst.dll
+G:\Coding\Curs C#\MoveFirst\MoveFirst\obj\Debug\netcoreapp2.0\MoveFirst.pdb
+G:\Coding\Curs C#\MoveFirst\MoveFirst\obj\Debug\netcoreapp2.0\MoveFirst.genruntimeconfig.cache

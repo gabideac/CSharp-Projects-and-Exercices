@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemaTransoane", "ProblemaTransoane.csproj", "{DE27E3F3-E285-4EBE-BD7E-B566EC223794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE27E3F3-E285-4EBE-BD7E-B566EC223794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE27E3F3-E285-4EBE-BD7E-B566EC223794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE27E3F3-E285-4EBE-BD7E-B566EC223794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE27E3F3-E285-4EBE-BD7E-B566EC223794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0441C79C-B776-4CDC-83DC-CCA231E02FB7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# S134: Control flow statements "if", "switch", "for", "foreach", "while", "do"  and "try" should not be nested too deeply
+dotnet_diagnostic.S134.severity = none

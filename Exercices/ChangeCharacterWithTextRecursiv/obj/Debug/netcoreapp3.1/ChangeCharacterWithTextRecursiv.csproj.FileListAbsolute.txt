@@ -1,0 +1,14 @@
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\bin\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.exe
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\bin\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.deps.json
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\bin\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.runtimeconfig.json
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\bin\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.runtimeconfig.dev.json
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\bin\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.dll
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\bin\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.pdb
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\obj\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.csproj.AssemblyReference.cache
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\obj\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\obj\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.AssemblyInfoInputs.cache
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\obj\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.AssemblyInfo.cs
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\obj\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.csproj.CoreCompileInputs.cache
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\obj\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.dll
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\obj\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.pdb
+G:\Coding\Curs C#\Probleme\ChangeCharacterWithTextRecursiv\obj\Debug\netcoreapp3.1\ChangeCharacterWithTextRecursiv.genruntimeconfig.cache

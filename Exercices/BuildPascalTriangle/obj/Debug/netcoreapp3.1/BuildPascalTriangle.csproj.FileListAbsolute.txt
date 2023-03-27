@@ -1,0 +1,14 @@
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\bin\Debug\netcoreapp3.1\BuildPascalTriangle.exe
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\bin\Debug\netcoreapp3.1\BuildPascalTriangle.deps.json
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\bin\Debug\netcoreapp3.1\BuildPascalTriangle.runtimeconfig.json
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\bin\Debug\netcoreapp3.1\BuildPascalTriangle.runtimeconfig.dev.json
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\bin\Debug\netcoreapp3.1\BuildPascalTriangle.dll
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\bin\Debug\netcoreapp3.1\BuildPascalTriangle.pdb
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\obj\Debug\netcoreapp3.1\BuildPascalTriangle.csproj.AssemblyReference.cache
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\obj\Debug\netcoreapp3.1\BuildPascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\obj\Debug\netcoreapp3.1\BuildPascalTriangle.AssemblyInfoInputs.cache
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\obj\Debug\netcoreapp3.1\BuildPascalTriangle.AssemblyInfo.cs
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\obj\Debug\netcoreapp3.1\BuildPascalTriangle.csproj.CoreCompileInputs.cache
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\obj\Debug\netcoreapp3.1\BuildPascalTriangle.dll
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\obj\Debug\netcoreapp3.1\BuildPascalTriangle.pdb
+G:\Coding\Curs C#\Probleme\BuildPascalTriangle\obj\Debug\netcoreapp3.1\BuildPascalTriangle.genruntimeconfig.cache

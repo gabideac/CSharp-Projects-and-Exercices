@@ -1,0 +1,14 @@
+G:\Coding\Curs C#\Bingo!\bin\Debug\netcoreapp3.1\Bingo!.exe
+G:\Coding\Curs C#\Bingo!\bin\Debug\netcoreapp3.1\Bingo!.deps.json
+G:\Coding\Curs C#\Bingo!\bin\Debug\netcoreapp3.1\Bingo!.runtimeconfig.json
+G:\Coding\Curs C#\Bingo!\bin\Debug\netcoreapp3.1\Bingo!.runtimeconfig.dev.json
+G:\Coding\Curs C#\Bingo!\bin\Debug\netcoreapp3.1\Bingo!.dll
+G:\Coding\Curs C#\Bingo!\bin\Debug\netcoreapp3.1\Bingo!.pdb
+G:\Coding\Curs C#\Bingo!\obj\Debug\netcoreapp3.1\Bingo!.csproj.AssemblyReference.cache
+G:\Coding\Curs C#\Bingo!\obj\Debug\netcoreapp3.1\Bingo!.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Curs C#\Bingo!\obj\Debug\netcoreapp3.1\Bingo!.AssemblyInfoInputs.cache
+G:\Coding\Curs C#\Bingo!\obj\Debug\netcoreapp3.1\Bingo!.AssemblyInfo.cs
+G:\Coding\Curs C#\Bingo!\obj\Debug\netcoreapp3.1\Bingo!.csproj.CoreCompileInputs.cache
+G:\Coding\Curs C#\Bingo!\obj\Debug\netcoreapp3.1\Bingo!.dll
+G:\Coding\Curs C#\Bingo!\obj\Debug\netcoreapp3.1\Bingo!.pdb
+G:\Coding\Curs C#\Bingo!\obj\Debug\netcoreapp3.1\Bingo!.genruntimeconfig.cache

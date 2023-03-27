@@ -1,0 +1,14 @@
+G:\Coding\Curs C#\Probleme\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+G:\Coding\Curs C#\Probleme\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+G:\Coding\Curs C#\Probleme\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+G:\Coding\Curs C#\Probleme\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+G:\Coding\Curs C#\Probleme\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+G:\Coding\Curs C#\Probleme\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+G:\Coding\Curs C#\Probleme\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.AssemblyReference.cache
+G:\Coding\Curs C#\Probleme\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Curs C#\Probleme\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+G:\Coding\Curs C#\Probleme\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+G:\Coding\Curs C#\Probleme\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+G:\Coding\Curs C#\Probleme\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+G:\Coding\Curs C#\Probleme\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+G:\Coding\Curs C#\Probleme\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache

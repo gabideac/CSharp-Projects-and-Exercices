@@ -1,0 +1,14 @@
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\bin\Debug\netcoreapp3.1\OnlyWantedResults.exe
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\bin\Debug\netcoreapp3.1\OnlyWantedResults.deps.json
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\bin\Debug\netcoreapp3.1\OnlyWantedResults.runtimeconfig.json
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\bin\Debug\netcoreapp3.1\OnlyWantedResults.runtimeconfig.dev.json
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\bin\Debug\netcoreapp3.1\OnlyWantedResults.dll
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\bin\Debug\netcoreapp3.1\OnlyWantedResults.pdb
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\obj\Debug\netcoreapp3.1\OnlyWantedResults.csproj.AssemblyReference.cache
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\obj\Debug\netcoreapp3.1\OnlyWantedResults.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\obj\Debug\netcoreapp3.1\OnlyWantedResults.AssemblyInfoInputs.cache
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\obj\Debug\netcoreapp3.1\OnlyWantedResults.AssemblyInfo.cs
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\obj\Debug\netcoreapp3.1\OnlyWantedResults.csproj.CoreCompileInputs.cache
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\obj\Debug\netcoreapp3.1\OnlyWantedResults.dll
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\obj\Debug\netcoreapp3.1\OnlyWantedResults.pdb
+G:\Coding\Curs C#\Probleme\OnlyWantedResults\obj\Debug\netcoreapp3.1\OnlyWantedResults.genruntimeconfig.cache

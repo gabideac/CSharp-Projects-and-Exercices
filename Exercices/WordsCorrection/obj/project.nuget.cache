@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8+7K7aiKAI8rzUlDh6/6WgPY663Htz4xughxJlOca0T/rP+uUeDixlHttIE4mPzFZ9a0g1KL5Z1pw6H18ScD7Q==",
+  "success": true,
+  "projectFilePath": "G:\\Coding\\Curs C#\\WordsCorrection\\WordsCorrection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\5.0.3\\microsoft.codeanalysis.netanalyzers.5.0.3.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\roslynator.analyzers\\3.2.2\\roslynator.analyzers.3.2.2.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\sonaranalyzer.csharp\\8.30.0.37606\\sonaranalyzer.csharp.8.30.0.37606.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

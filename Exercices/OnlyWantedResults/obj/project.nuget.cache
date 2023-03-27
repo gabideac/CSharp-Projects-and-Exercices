@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jdu933Bso+FPQf3/uexWChpubqSLkoa0qcLWNEeXK3UTDpWlN9z+cnK3KtrPQ09iV5SjObj2M/LIqHJFKx6Swg==",
+  "success": true,
+  "projectFilePath": "G:\\Coding\\Curs C#\\Probleme\\OnlyWantedResults\\OnlyWantedResults.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\6.0.0\\microsoft.codeanalysis.netanalyzers.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\roslynator.analyzers\\3.2.2\\roslynator.analyzers.3.2.2.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\sonaranalyzer.csharp\\8.32.0.39516\\sonaranalyzer.csharp.8.32.0.39516.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

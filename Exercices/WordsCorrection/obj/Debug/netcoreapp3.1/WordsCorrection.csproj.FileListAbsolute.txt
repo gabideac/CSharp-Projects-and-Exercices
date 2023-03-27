@@ -1,0 +1,14 @@
+G:\Coding\Curs C#\WordsCorrection\bin\Debug\netcoreapp3.1\WordsCorrection.exe
+G:\Coding\Curs C#\WordsCorrection\bin\Debug\netcoreapp3.1\WordsCorrection.deps.json
+G:\Coding\Curs C#\WordsCorrection\bin\Debug\netcoreapp3.1\WordsCorrection.runtimeconfig.json
+G:\Coding\Curs C#\WordsCorrection\bin\Debug\netcoreapp3.1\WordsCorrection.runtimeconfig.dev.json
+G:\Coding\Curs C#\WordsCorrection\bin\Debug\netcoreapp3.1\WordsCorrection.dll
+G:\Coding\Curs C#\WordsCorrection\bin\Debug\netcoreapp3.1\WordsCorrection.pdb
+G:\Coding\Curs C#\WordsCorrection\obj\Debug\netcoreapp3.1\WordsCorrection.csproj.AssemblyReference.cache
+G:\Coding\Curs C#\WordsCorrection\obj\Debug\netcoreapp3.1\WordsCorrection.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Curs C#\WordsCorrection\obj\Debug\netcoreapp3.1\WordsCorrection.AssemblyInfoInputs.cache
+G:\Coding\Curs C#\WordsCorrection\obj\Debug\netcoreapp3.1\WordsCorrection.AssemblyInfo.cs
+G:\Coding\Curs C#\WordsCorrection\obj\Debug\netcoreapp3.1\WordsCorrection.csproj.CoreCompileInputs.cache
+G:\Coding\Curs C#\WordsCorrection\obj\Debug\netcoreapp3.1\WordsCorrection.dll
+G:\Coding\Curs C#\WordsCorrection\obj\Debug\netcoreapp3.1\WordsCorrection.pdb
+G:\Coding\Curs C#\WordsCorrection\obj\Debug\netcoreapp3.1\WordsCorrection.genruntimeconfig.cache

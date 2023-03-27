@@ -1,0 +1,13 @@
+G:\Coding\Curs C#\Countdown\Countdown\bin\Debug\netcoreapp2.0\Countdown.deps.json
+G:\Coding\Curs C#\Countdown\Countdown\bin\Debug\netcoreapp2.0\Countdown.runtimeconfig.json
+G:\Coding\Curs C#\Countdown\Countdown\bin\Debug\netcoreapp2.0\Countdown.runtimeconfig.dev.json
+G:\Coding\Curs C#\Countdown\Countdown\bin\Debug\netcoreapp2.0\Countdown.dll
+G:\Coding\Curs C#\Countdown\Countdown\bin\Debug\netcoreapp2.0\Countdown.pdb
+G:\Coding\Curs C#\Countdown\Countdown\obj\Debug\netcoreapp2.0\Countdown.csproj.AssemblyReference.cache
+G:\Coding\Curs C#\Countdown\Countdown\obj\Debug\netcoreapp2.0\Countdown.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Curs C#\Countdown\Countdown\obj\Debug\netcoreapp2.0\Countdown.AssemblyInfoInputs.cache
+G:\Coding\Curs C#\Countdown\Countdown\obj\Debug\netcoreapp2.0\Countdown.AssemblyInfo.cs
+G:\Coding\Curs C#\Countdown\Countdown\obj\Debug\netcoreapp2.0\Countdown.csproj.CoreCompileInputs.cache
+G:\Coding\Curs C#\Countdown\Countdown\obj\Debug\netcoreapp2.0\Countdown.dll
+G:\Coding\Curs C#\Countdown\Countdown\obj\Debug\netcoreapp2.0\Countdown.pdb
+G:\Coding\Curs C#\Countdown\Countdown\obj\Debug\netcoreapp2.0\Countdown.genruntimeconfig.cache

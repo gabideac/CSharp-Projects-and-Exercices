@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k4URJ4jlL+nMv5WU14SyZWEAdqy9F8HzPN7LVrEgcPYljBcX9fNo19V49n5QBYTk5s9VHbEaxpDKHrHCFqVedQ==",
+  "success": true,
+  "projectFilePath": "G:\\Coding\\Curs C#\\Probleme\\PasswordComplexity\\PasswordComplexity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tabita\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\6.0.0\\microsoft.codeanalysis.netanalyzers.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\roslynator.analyzers\\3.2.2\\roslynator.analyzers.3.2.2.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\sonaranalyzer.csharp\\8.32.0.39516\\sonaranalyzer.csharp.8.32.0.39516.nupkg.sha512",
+    "C:\\Users\\Tabita\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

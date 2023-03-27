@@ -1,0 +1,14 @@
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\bin\Debug\netcoreapp3.1\DecimalToHexadecimal.exe
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\bin\Debug\netcoreapp3.1\DecimalToHexadecimal.deps.json
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\bin\Debug\netcoreapp3.1\DecimalToHexadecimal.runtimeconfig.json
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\bin\Debug\netcoreapp3.1\DecimalToHexadecimal.runtimeconfig.dev.json
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\bin\Debug\netcoreapp3.1\DecimalToHexadecimal.dll
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\bin\Debug\netcoreapp3.1\DecimalToHexadecimal.pdb
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\obj\Debug\netcoreapp3.1\DecimalToHexadecimal.csproj.AssemblyReference.cache
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\obj\Debug\netcoreapp3.1\DecimalToHexadecimal.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\obj\Debug\netcoreapp3.1\DecimalToHexadecimal.AssemblyInfoInputs.cache
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\obj\Debug\netcoreapp3.1\DecimalToHexadecimal.AssemblyInfo.cs
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\obj\Debug\netcoreapp3.1\DecimalToHexadecimal.csproj.CoreCompileInputs.cache
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\obj\Debug\netcoreapp3.1\DecimalToHexadecimal.dll
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\obj\Debug\netcoreapp3.1\DecimalToHexadecimal.pdb
+G:\Coding\Curs C#\Probleme\DecimalToHexadecimal\obj\Debug\netcoreapp3.1\DecimalToHexadecimal.genruntimeconfig.cache

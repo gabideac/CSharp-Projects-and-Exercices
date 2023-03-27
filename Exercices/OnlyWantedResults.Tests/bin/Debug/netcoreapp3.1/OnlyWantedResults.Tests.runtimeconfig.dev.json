@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tabita\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tabita\\.nuget\\packages"
+    ]
+  }
+}

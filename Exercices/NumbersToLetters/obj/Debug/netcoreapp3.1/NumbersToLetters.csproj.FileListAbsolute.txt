@@ -1,0 +1,14 @@
+G:\Coding\Curs C#\NumbersToLetters\bin\Debug\netcoreapp3.1\NumbersToLetters.exe
+G:\Coding\Curs C#\NumbersToLetters\bin\Debug\netcoreapp3.1\NumbersToLetters.deps.json
+G:\Coding\Curs C#\NumbersToLetters\bin\Debug\netcoreapp3.1\NumbersToLetters.runtimeconfig.json
+G:\Coding\Curs C#\NumbersToLetters\bin\Debug\netcoreapp3.1\NumbersToLetters.runtimeconfig.dev.json
+G:\Coding\Curs C#\NumbersToLetters\bin\Debug\netcoreapp3.1\NumbersToLetters.dll
+G:\Coding\Curs C#\NumbersToLetters\bin\Debug\netcoreapp3.1\NumbersToLetters.pdb
+G:\Coding\Curs C#\NumbersToLetters\obj\Debug\netcoreapp3.1\NumbersToLetters.csproj.AssemblyReference.cache
+G:\Coding\Curs C#\NumbersToLetters\obj\Debug\netcoreapp3.1\NumbersToLetters.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Curs C#\NumbersToLetters\obj\Debug\netcoreapp3.1\NumbersToLetters.AssemblyInfoInputs.cache
+G:\Coding\Curs C#\NumbersToLetters\obj\Debug\netcoreapp3.1\NumbersToLetters.AssemblyInfo.cs
+G:\Coding\Curs C#\NumbersToLetters\obj\Debug\netcoreapp3.1\NumbersToLetters.csproj.CoreCompileInputs.cache
+G:\Coding\Curs C#\NumbersToLetters\obj\Debug\netcoreapp3.1\NumbersToLetters.dll
+G:\Coding\Curs C#\NumbersToLetters\obj\Debug\netcoreapp3.1\NumbersToLetters.pdb
+G:\Coding\Curs C#\NumbersToLetters\obj\Debug\netcoreapp3.1\NumbersToLetters.genruntimeconfig.cache

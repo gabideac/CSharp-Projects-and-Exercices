@@ -1,0 +1,34 @@
+static string GetAllLetters(int nr)
+        {
+            string result = "";
+            const int twentySix = 26;
+            const int sevenOTwo = 702;
+            int forSecondLetter = nr % twentySix;
+            int forFirstLetter = nr / twentySix;
+            if (nr <= twentySix)
+            {
+                return GetLetterFromNumber(nr);
+            }
+            else if (nr <= sevenOTwo)
+            {
+                result = forSecondLetter == 0
+                    ? GetLetterFromNumber(forFirstLetter - 1) + GetLetterFromNumber(twentySix)
+                    : GetLetterFromNumber(forFirstLetter) + GetLetterFromNumber(forSecondLetter);
+                return result;
+            }
+            else
+            {
+                int actualFirst = nr / sevenOTwo;
+                int forActualSecond = nr % sevenOTwo;
+                int divideActSec = (forActualSecond / twentySix) - 1;
+                int forThirdLetter = forActualSecond % twentySix;
+                if (nr % sevenOTwo == 0)
+                {
+                    return GetLetterFromNumber(actualFirst - 1) + GetLetterFromNumber(actualFirst - 1) + GetLetterFromNumber(twentySix);
+                }
+
+                return forThirdLetter != 0
+                    ? GetLetterFromNumber(actualFirst - 1) + GetLetterFromNumber(divideActSec) + GetLetterFromNumber(forThirdLetter)
+                    : GetLetterFromNumber(actualFirst - 1) + GetLetterFromNumber(divideActSec) + GetLetterFromNumber(twentySix);
+            }
+}  

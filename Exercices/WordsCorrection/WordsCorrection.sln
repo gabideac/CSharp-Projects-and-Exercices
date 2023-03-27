@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsCorrection", "WordsCorrection.csproj", "{765CB51C-1146-4A06-9D6C-FE4EF5318581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{765CB51C-1146-4A06-9D6C-FE4EF5318581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765CB51C-1146-4A06-9D6C-FE4EF5318581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765CB51C-1146-4A06-9D6C-FE4EF5318581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765CB51C-1146-4A06-9D6C-FE4EF5318581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F417844D-D1CD-47FB-9A81-AE931D521DF6}
+	EndGlobalSection
+EndGlobal

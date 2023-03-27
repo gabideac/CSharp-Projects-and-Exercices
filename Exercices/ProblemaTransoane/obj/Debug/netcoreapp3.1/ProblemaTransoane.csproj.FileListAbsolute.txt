@@ -1,0 +1,14 @@
+G:\Coding\Curs C#\ProblemaTransoane\obj\Debug\netcoreapp3.1\ProblemaTransoane.csproj.AssemblyReference.cache
+G:\Coding\Curs C#\ProblemaTransoane\obj\Debug\netcoreapp3.1\ProblemaTransoane.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Curs C#\ProblemaTransoane\obj\Debug\netcoreapp3.1\ProblemaTransoane.AssemblyInfoInputs.cache
+G:\Coding\Curs C#\ProblemaTransoane\obj\Debug\netcoreapp3.1\ProblemaTransoane.AssemblyInfo.cs
+G:\Coding\Curs C#\ProblemaTransoane\obj\Debug\netcoreapp3.1\ProblemaTransoane.csproj.CoreCompileInputs.cache
+G:\Coding\Curs C#\ProblemaTransoane\bin\Debug\netcoreapp3.1\ProblemaTransoane.exe
+G:\Coding\Curs C#\ProblemaTransoane\bin\Debug\netcoreapp3.1\ProblemaTransoane.deps.json
+G:\Coding\Curs C#\ProblemaTransoane\bin\Debug\netcoreapp3.1\ProblemaTransoane.runtimeconfig.json
+G:\Coding\Curs C#\ProblemaTransoane\bin\Debug\netcoreapp3.1\ProblemaTransoane.runtimeconfig.dev.json
+G:\Coding\Curs C#\ProblemaTransoane\bin\Debug\netcoreapp3.1\ProblemaTransoane.dll
+G:\Coding\Curs C#\ProblemaTransoane\bin\Debug\netcoreapp3.1\ProblemaTransoane.pdb
+G:\Coding\Curs C#\ProblemaTransoane\obj\Debug\netcoreapp3.1\ProblemaTransoane.dll
+G:\Coding\Curs C#\ProblemaTransoane\obj\Debug\netcoreapp3.1\ProblemaTransoane.pdb
+G:\Coding\Curs C#\ProblemaTransoane\obj\Debug\netcoreapp3.1\ProblemaTransoane.genruntimeconfig.cache
